@@ -3,8 +3,6 @@
 
 🌐 Currently, I'm looking for new opportunities to learn and grow. My repositories showcase a mix of personal projects, school projects, and experiments that reflect my continuous learning journey.
 
-📫 You can connect with me on [Linkedin(https://www.linkedin.com/in/fernandaperez99)]
-
 Happy coding! 🚀✨
 
 <!--
