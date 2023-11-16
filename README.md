@@ -3,7 +3,7 @@
 
 🌐 Currently, I'm looking for new opportunities to learn and grow. My repositories showcase a mix of personal projects, school projects, and experiments that reflect my continuous learning journey.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feperezl&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feperezl&hide_progress=true)
 
 Happy coding! 🚀✨
 
