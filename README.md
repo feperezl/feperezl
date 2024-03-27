@@ -3,8 +3,7 @@
 
 🌐 Currently, I'm looking for new opportunities to learn and grow. My repositories showcase a mix of personal projects, school projects, and experiments that reflect my continuous learning journey.
 🌱 I’m currently learning VueJS
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feperezl&hide_progress=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=feperezl&show_icons=true&theme=radical)
 
 Happy coding! 🚀✨
 
