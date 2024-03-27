@@ -3,10 +3,10 @@
 
 🌐 Currently, I'm looking for new opportunities to learn and grow. My repositories showcase a mix of personal projects, school projects, and experiments that reflect my continuous learning journey.
 🌱 I’m currently learning VueJS
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feperezl&layout=compact)
+
 
 Happy coding! 🚀✨
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feperezl&layout=compact)
 <!--
 **feperezl/feperezl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
