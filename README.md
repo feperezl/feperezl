@@ -13,7 +13,7 @@
 
 <strong>Happy coding! 🚀✨</strong>
 
-<h2>Languages & Frameworks </h2><br>
+<h2>Stack</h2><br>
 <div><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
