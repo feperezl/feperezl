@@ -5,11 +5,11 @@
 </p>
 <!--  -->
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture><h2>About me</h2> <br>
-<p> 🚀 Passionate Front-end developer. </p>
+<p> 🚀 Front-end developer. </p>
 <p> 🔭 Almost graduate </p>
 <p> 📫 You can contact me @fernandaperez.trabajo@gmail.com </p>
 <p> 🌐 Currently, I'm looking for new opportunities to learn and grow. My repositories showcase a mix of personal projects, school projects, and experiments that reflect my continuous learning journey. </p>
-<p> ⚡ I’m currently learning Vue.js & Angular </p>
+<p> ⚡ I’m currently learning Vue.js </p>
 
 <strong>Happy coding! 🚀✨</strong>
 
@@ -32,11 +32,5 @@
 <h3>Version Control</h3>
 <div><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></div>
-
-<h3>Cloud</h3>
-<div><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
-<img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/> 
-<img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-</div>
 <h3>Databases</h3>
 <img alt="Oracle" src ="https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white" />
