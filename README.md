@@ -3,9 +3,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Developer"></a>
 </p>
-<!--  -->
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture><h2>About me</h2> <br>
-<p> 🚀 Front-end developer. </p>
+<h2>About me</h2> <br>
+<p> 🚀 Developer </p>
 <p> 🔭 Almost graduate </p>
 <p> 📫 You can contact me @fernandaperez.trabajo@gmail.com </p>
 <p> 🌐 Currently, I'm looking for new opportunities to learn and grow. My repositories showcase a mix of personal projects, school projects, and experiments that reflect my continuous learning journey. </p>
